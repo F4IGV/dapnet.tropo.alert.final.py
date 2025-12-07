@@ -6,6 +6,9 @@ This Python script computes a simplified tropospheric propagation index using lo
 
 It is ideal for amateur radio operators interested in real-time tropo forecasts directly on their POCSAG pagers.
 
+This script can be automated on Windows using Task Scheduler together with the `.bat` file included in this repository.  
+The user must edit the `.bat` file and specify the full path to the `.py` script so automation works correctly.
+
 ---
 
 ## Features
